@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\My personal calculator\My personal calculator\obj\Debug\netcoreapp3.1\My personal calculator.csprojAssemblyReference.cache
+C:\Users\User\source\repos\My personal calculator\My personal calculator\obj\Debug\netcoreapp3.1\My personal calculator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\My personal calculator\My personal calculator\obj\Debug\netcoreapp3.1\My personal calculator.AssemblyInfo.cs
+C:\Users\User\source\repos\My personal calculator\My personal calculator\obj\Debug\netcoreapp3.1\My personal calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\My personal calculator\My personal calculator\bin\Debug\netcoreapp3.1\My personal calculator.exe
+C:\Users\User\source\repos\My personal calculator\My personal calculator\bin\Debug\netcoreapp3.1\My personal calculator.deps.json
+C:\Users\User\source\repos\My personal calculator\My personal calculator\bin\Debug\netcoreapp3.1\My personal calculator.runtimeconfig.json
+C:\Users\User\source\repos\My personal calculator\My personal calculator\bin\Debug\netcoreapp3.1\My personal calculator.runtimeconfig.dev.json
+C:\Users\User\source\repos\My personal calculator\My personal calculator\bin\Debug\netcoreapp3.1\My personal calculator.dll
+C:\Users\User\source\repos\My personal calculator\My personal calculator\bin\Debug\netcoreapp3.1\My personal calculator.pdb
+C:\Users\User\source\repos\My personal calculator\My personal calculator\obj\Debug\netcoreapp3.1\My personal calculator.dll
+C:\Users\User\source\repos\My personal calculator\My personal calculator\obj\Debug\netcoreapp3.1\My personal calculator.pdb
+C:\Users\User\source\repos\My personal calculator\My personal calculator\obj\Debug\netcoreapp3.1\My personal calculator.genruntimeconfig.cache
